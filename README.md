@@ -1,6 +1,8 @@
 # x11-linux-poe-mousewheel-ctrl-click
 Quick python program that helps you transfer items in Path of Exile more efficiently via ctrl mousewheel as click input. Follows the PoE one action rule per ToS. Only for clicking the items with a wheel instead of a mouse.
 
+Works in x11 gui linux. Bazzite for me.
+
 Pre req is python3 and pyinput
 ```python3 -m pip install --user pynput```
 
