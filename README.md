@@ -24,4 +24,4 @@ chmod +x ~/Desktop/poelmbroll.desktop
 ```
 
 Example
-https://github.com/user-attachments/assets/d5b1d55b-80e8-4f88-a2e6-aa40a762873f
+https://github.com/user-attachments/assets/d5b1d55b-80e8-4f88-a2e6-aa40a762873f.webm
