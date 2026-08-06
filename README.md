@@ -22,4 +22,5 @@ Categories=Utility;
 EOF
 chmod +x ~/Desktop/poelmbroll.desktop```
 
-<video src="example.webm" autoplay loop muted playsinline width="100%"></video>
+Example
+[example.webm](https://github.com/user-attachments/assets/d5b1d55b-80e8-4f88-a2e6-aa40a762873f)
