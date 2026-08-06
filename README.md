@@ -1,2 +1,25 @@
 # x11-linux-poe-mousewheel-ctrl-click
 Quick python program that helps you transfer items in Path of Exile more efficiently via ctrl mousewheel as click input. Follows the PoE one action rule per ToS. Only for clicking the items with a wheel instead of a mouse.
+
+Pre req is python3 and pyinput
+```python3 -m pip install --user pynput```
+
+Just 
+```chmod +x```
+and
+```./poelmbroll.py```
+
+Bazzite specific icon on desktop
+```cat << 'EOF' > ~/Desktop/poelmbroll.desktop
+[Desktop Entry]
+Type=Application
+Name=Poe Lmbroll
+Comment=Launch Poe Lmbroll Script
+Exec=python3 /path/to/poelmbroll.py
+Icon=utilities-terminal
+Terminal=true
+Categories=Utility;
+EOF
+chmod +x ~/Desktop/poelmbroll.desktop```
+
+<video src="example.webm" autoplay loop muted playsinline width="100%"></video>
