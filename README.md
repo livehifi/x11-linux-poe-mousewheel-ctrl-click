@@ -20,7 +20,8 @@ Icon=utilities-terminal
 Terminal=true
 Categories=Utility;
 EOF
-chmod +x ~/Desktop/poelmbroll.desktop```
+chmod +x ~/Desktop/poelmbroll.desktop
+```
 
 Example
 [example.webm](https://github.com/user-attachments/assets/d5b1d55b-80e8-4f88-a2e6-aa40a762873f)
