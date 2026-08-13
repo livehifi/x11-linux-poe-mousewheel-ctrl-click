@@ -30,5 +30,7 @@ Example
 
 
 Note: Linux mint version needs this:
-```sudo apt update
-sudo apt install python3-pynput xdotool```
+```
+sudo apt update
+sudo apt install python3-pynput xdotool
+```
